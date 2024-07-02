@@ -1,4 +1,4 @@
-# Solar-Bird
+# 🐦Solar-Bird
 
                                   #######             ###                                   ##### ##                        ##    
                                 /       ###            ###                               ######  /##   #                     ##   
@@ -77,3 +77,7 @@
                       ^5Y?YYYGPJ5YYP?7PBYJJJ5555JJ??JPGPJ5J?7?YJ??J??YJ77??GG~!?777!?J7J?7?BBJYJ55???55?JJY5JJYGY!^
                      ^J5J75JJY5YJ?YJ77YG#5JJJ????YJ?YJP#5?75JJYJJYJ?755?JJ?PP!~7YGJ!!777J??B#JY5PP??7YJ?JJY????J!
                      75JJ??P7JYY5?7??!75GG555JJJ777?J5YGGY?P5JYJJ5Y5YYP?JGGPP7~~7PP??77YYYY#BYY555YYJPJ5YPYYJJ57
+
+## What is❓
+
+## 🔧Components and design
