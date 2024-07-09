@@ -110,7 +110,7 @@ SOLAR BIRD is a project developed with a raspberry pi pico with the aim of stori
 
 🔩 1 x 22k ohms: Used for specific circuit requirements
 
-![Texto alternativo](circuit.jpg)
+![Texto alternativo](Circuit.jpg)
 
 
 
