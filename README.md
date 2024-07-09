@@ -81,7 +81,7 @@
 ## ❓What is?
 SOLAR BIRD is a project developed with a raspberry pi pico with the aim of storing solar energy and converting it into electrical energy for public lighting with the aim of minimizing public expenses, redirecting the amounts saved towards education or donations to charitable institutions.
 
-## 🔧Components and design
+## 🔧Components and Circuit
 📎 Raspberry Pi Pico: Microcontroller
 
 📎 LDR sensor (GP26): Light Dependent Resistor for light intensity detection
@@ -109,3 +109,9 @@ SOLAR BIRD is a project developed with a raspberry pi pico with the aim of stori
 🔩 2 x 68k ohms: Used for voltage division or current limiting
 
 🔩 1 x 22k ohms: Used for specific circuit requirements
+
+
+
+
+
+
