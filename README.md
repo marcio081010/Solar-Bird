@@ -78,6 +78,21 @@
                      ^J5J75JJY5YJ?YJ77YG#5JJJ????YJ?YJP#5?75JJYJJYJ?755?JJ?PP!~7YGJ!!777J??B#JY5PP??7YJ?JJY????J!
                      75JJ??P7JYY5?7??!75GG555JJJ777?J5YGGY?P5JYJJ5Y5YYP?JGGPP7~~7PP??77YYYY#BYY555YYJPJ5YPYYJJ57
 
-## What is❓
+## ❓What is?
+SOLAR BIRD is a project developed with a raspberry pi pico with the aim of storing solar energy and converting it into electrical energy for public lighting with the aim of minimizing public expenses, redirecting the amounts saved towards education or donations to charitable institutions.
 
 ## 🔧Components and design
+📎 Raspberry Pi Pico: Microcontroller
+📎 LDR sensor (GP26): Light Dependent Resistor for light intensity detection
+📎 Servo motor (GP14): Motor for rotating to the direction with the highest light intensity
+📎 Relay SRD-05VDC-SL-C (GP15): Relay for switching the street lamp LED on and off
+📎 LiPo battery (GP27): Lithium Polymer battery for energy storage
+📎 Red LED (GP16): Indicates low or no charge
+📎 Yellow LED (GP17): Indicates moderate charge
+📎 Green LED (GP18): Indicates fully charged
+📎 Boost converter: Increases the voltage from the LiPo battery to the required level
+📎 Schottky diode: Provides efficient current flow and low forward voltage drop
+📎 Resistors:
+🔩 3 x 10k ohms: Used for limiting current in circuits
+🔩 2 x 68k ohms: Used for voltage division or current limiting
+🔩 1 x 22k ohms: Used for specific circuit requirements
