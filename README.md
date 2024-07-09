@@ -83,8 +83,11 @@ SOLAR BIRD is a project developed with a raspberry pi pico with the aim of stori
 
 ## 🔧Components and design
 📎 Raspberry Pi Pico: Microcontroller
+
 📎 LDR sensor (GP26): Light Dependent Resistor for light intensity detection
+
 📎 Servo motor (GP14): Motor for rotating to the direction with the highest light intensity
+
 📎 Relay SRD-05VDC-SL-C (GP15): Relay for switching the street lamp LED on and off
 📎 LiPo battery (GP27): Lithium Polymer battery for energy storage
 📎 Red LED (GP16): Indicates low or no charge
