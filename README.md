@@ -89,13 +89,23 @@ SOLAR BIRD is a project developed with a raspberry pi pico with the aim of stori
 📎 Servo motor (GP14): Motor for rotating to the direction with the highest light intensity
 
 📎 Relay SRD-05VDC-SL-C (GP15): Relay for switching the street lamp LED on and off
+
 📎 LiPo battery (GP27): Lithium Polymer battery for energy storage
+
 📎 Red LED (GP16): Indicates low or no charge
+
 📎 Yellow LED (GP17): Indicates moderate charge
+
 📎 Green LED (GP18): Indicates fully charged
+
 📎 Boost converter: Increases the voltage from the LiPo battery to the required level
+
 📎 Schottky diode: Provides efficient current flow and low forward voltage drop
+
 📎 Resistors:
+
 🔩 3 x 10k ohms: Used for limiting current in circuits
+
 🔩 2 x 68k ohms: Used for voltage division or current limiting
+
 🔩 1 x 22k ohms: Used for specific circuit requirements
