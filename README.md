@@ -116,7 +116,7 @@ SOLAR BIRD is a project developed with a raspberry pi pico with the aim of stori
 ## 📏Hardware Modeling
 Hardware Modeling can be found on my Thingiverse via Link
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-https://www.thingiverse.com/marcio081010/designs
+https://www.thingiverse.com/thing:6691124
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 💲good studies to all💲
